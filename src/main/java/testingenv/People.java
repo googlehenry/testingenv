@@ -9,9 +9,7 @@ public class People {
 	public Integer getId() {
 		return id;//add by second
 		//fixed a critical bug!!!
-		//v1
-		//v2
-		//v3
+
 	}
 
 	public void setId(Integer id) {
