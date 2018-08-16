@@ -7,7 +7,7 @@ public class People {
 	private Integer age;
 
 	public Integer getId() {
-		return id;
+		return id;//add by zhangsan
 	}
 
 	public void setId(Integer id) {
