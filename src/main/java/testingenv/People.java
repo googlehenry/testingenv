@@ -10,6 +10,7 @@ public class People {
 		return id;//add by second
 		//fixed a critical bug!!!
 		//v1
+		//v2
 	}
 
 	public void setId(Integer id) {
