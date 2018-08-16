@@ -7,7 +7,7 @@ public class People {
 	private Integer age;
 
 	public Integer getId() {
-		return id;//add by second
+		return id;//add by second,rebat
 		//fixed a critical bug!!!
 
 	}
