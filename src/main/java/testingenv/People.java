@@ -8,6 +8,7 @@ public class People {
 
 	public Integer getId() {
 		return id;//add by second
+
 	}
 
 	public void setId(Integer id) {
